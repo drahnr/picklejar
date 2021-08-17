@@ -1,0 +1,12 @@
+[package]
+name = "picklejar"
+version = "0.0.0"
+edition = "2018"
+author = "Bernhard Schuster <bernhard@ahoi.io>"
+license = "MIT OR Apache-2.0"
+description = "Integration test launcher for kubernetes based tests. Focused on polkadot use-case."
+keywords = ["cucumber", "gurke", "polkadot"]
+categories = ["command-line-utilities", "development-tools::testing"]
+repository = "https://github.com/drahnr/picklejar.git"
+
+[dependencies]
